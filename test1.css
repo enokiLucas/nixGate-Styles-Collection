@@ -4,6 +4,21 @@
 
 .vector-toc.vector-pinnable-element {
 	background-color: pink;
+    border: 2px solid black;
+    
+}
+
+.vector-pinned-container {
+    background-color: grey;
+    border: 2px solid red;
+}
+
+.vector-unpinned-container {
+    border: 2px solid blue;
+}
+
+div#vector-toc.vector-toc.vector-pinnable-element::after {
+    display: none;
 }
 
 tbody {
@@ -11,5 +26,5 @@ tbody {
 }
 
 .catlinks {
-    background-color: white; 
+    background-color: purple; 
 }
