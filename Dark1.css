@@ -1,0 +1,44 @@
+.mw-page-container {
+	background-color: #33373a;
+}
+
+.vector-toc.vector-pinnable-element {
+	background-color: #222;
+}
+
+
+div#vector-toc.vector-toc.vector-pinnable-element::after {
+	display: none;
+}
+
+tr {
+	background-color: #284a2a;
+}
+
+th {
+	background-color: #222 !important;
+}
+tr td {
+	background-color: #284a2a !important;
+}
+
+div.center {
+	background-color: #284a2a;
+}
+
+div.thumbcaption {
+	background-color: #284a2a !important;
+}
+
+.catlinks {
+	background-color: #284a2a;
+}
+
+* {
+	color: white;
+}
+
+a,
+a.external.text {
+	color: yellow;
+}
