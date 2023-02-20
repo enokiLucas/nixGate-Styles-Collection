@@ -1,5 +1,5 @@
 # Wikipedia-Styles-Collection
-Collection of CSS files for Wikipedia.
+Collection of CSS files for Wikipedia, made after the 2023-01-18 update.
 
 Personal Project started as a learning experience. Complete styles may be publish in 'Stylus' in the future.
 
