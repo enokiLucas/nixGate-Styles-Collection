@@ -6,32 +6,23 @@
 	background-color: #222;
 }
 
-
 div#vector-toc.vector-toc.vector-pinnable-element::after {
 	display: none;
 }
 
-tr {
+tr,
+div.center,
+.catlinks {
 	background-color: #284a2a;
 }
 
 th {
 	background-color: #222 !important;
 }
-tr td {
-	background-color: #284a2a !important;
-}
 
-div.center {
-	background-color: #284a2a;
-}
-
+tr td,
 div.thumbcaption {
 	background-color: #284a2a !important;
-}
-
-.catlinks {
-	background-color: #284a2a;
 }
 
 * {
