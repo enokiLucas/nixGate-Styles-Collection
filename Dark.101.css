@@ -6,13 +6,15 @@
 	background-color: #222;
 }
 
-div#vector-toc.vector-toc.vector-pinnable-element::after {
+div#vector-toc.vector-toc.vector-pinnable-element::after,
+div.mwe-popups-container a.mwe-popups-extract::after {
 	display: none;
 }
 
 tr,
 div.center,
-.catlinks {
+.catlinks,
+div.mwe-popups-container footer {
 	background-color: #284a2a;
 }
 
@@ -27,12 +29,19 @@ div.thumbcaption {
 
 * {
 	color: white;
-	background-color: #33373a;
 }
 
 a,
 a.external.text {
 	color: yellow;
+}
+
+div.mwe-popups-container a.mwe-popups-extract {
+	background-color: #222;
+    padding: 8px;
+    padding-bottom: 6px;
+    padding-top: 4px;
+    margin: 0;
 }
 
 /*
