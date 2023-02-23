@@ -23,7 +23,8 @@ th {
 }
 
 tr td,
-div.thumbcaption {
+div.thumbcaption,
+tr::before {
 	background-color: #284a2a !important;
 }
 
