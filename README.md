@@ -1,1 +1,0 @@
-# nixGate-Styles-Collection

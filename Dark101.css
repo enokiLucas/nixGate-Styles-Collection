@@ -1,0 +1,61 @@
+.mw-page-container {
+	background-color: #33373a;
+}
+
+.vector-toc.vector-pinnable-element {
+	background-color: #222;
+}
+
+div#vector-toc.vector-toc.vector-pinnable-element::after,
+div.mwe-popups-container a.mwe-popups-extract::after {
+	display: none;
+}
+
+tr,
+div.center,
+.catlinks,
+div.mwe-popups-container footer {
+	background-color: #284a2a;
+}
+
+th {
+	background-color: #222 !important;
+}
+
+tr td,
+div.thumbcaption,
+tr::before {
+	background-color: #284a2a !important;
+}
+
+* {
+	color: white;
+}
+
+a,
+a.external.text {
+	color: yellow;
+}
+
+div.mwe-popups-container a.mwe-popups-extract {
+	background-color: #222;
+    padding: 8px;
+    padding-bottom: 6px;
+    padding-top: 4px;
+    margin: 0;
+}
+
+/*
+div.mwe-popups.mwe-popups-type-page.mwe-popups-fade-in-up.flipped-x.mwe-popups-image-pointer.mwe-popups-is-not-tall"
+
+	div.mwe-popups-container
+
+		a.mwe-popups-discreet -> image.
+			img.mwe-popups-thumbnail
+
+		a.mwe-popups-extract
+			p
+			a.mwe-popups-extract::after
+			
+
+*/
