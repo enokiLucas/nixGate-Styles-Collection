@@ -20,7 +20,8 @@ div.center,
 div.mwe-popups-container footer,
 div.side-box.metadata.side-box-right.sister-box.sistersitebox.plainlinks,
 .mw-message-box-notice.vector-language-sidebar-alert.mw-message-box,
-.side-box-flex {
+.side-box-flex,
+div.noprint.metadata.sister-bar {
 	background-color: #284a2a;
 }
 
