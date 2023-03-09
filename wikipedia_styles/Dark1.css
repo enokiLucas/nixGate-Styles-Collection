@@ -2,7 +2,9 @@
 	background-color: #33373a;
 }
 
-.vector-toc.vector-pinnable-element {
+.vector-toc.vector-pinnable-element,
+#vector-main-menu,
+.portal-bar.noprint.metadata.noviewer.portal-bar-bordered {
 	background-color: #222;
 }
 
@@ -16,7 +18,9 @@ div.center,
 .catlinks,
 .cdx-menu,
 div.mwe-popups-container footer,
-div.side-box.metadata.side-box-right.sister-box.sistersitebox.plainlinks {
+div.side-box.metadata.side-box-right.sister-box.sistersitebox.plainlinks,
+.mw-message-box-notice.vector-language-sidebar-alert.mw-message-box,
+.side-box-flex {
 	background-color: #284a2a;
 }
 
