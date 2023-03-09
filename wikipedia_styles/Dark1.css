@@ -15,7 +15,8 @@ tr,
 div.center,
 .catlinks,
 .cdx-menu,
-div.mwe-popups-container footer {
+div.mwe-popups-container footer,
+div.side-box.metadata.side-box-right.sister-box.sistersitebox.plainlinks {
 	background-color: #284a2a;
 }
 
@@ -35,7 +36,8 @@ tr::before {
 }
 
 a,
-a.external.text {
+a.external.text,
+.mw-parser-output a.extiw {
 	color: yellow;
 }
 

@@ -13,7 +13,9 @@ div#vector-toc.vector-toc.vector-pinnable-element::after {
 tr,
 div.center,
 .catlinks,
-.cdx-menu {
+.cdx-menu,
+div.side-box.metadata.side-box-right.sister-box.sistersitebox.plainlinks,
+div.mwe-popups-container footer {
 	background-color: #284a2a;
 }
 
@@ -44,10 +46,6 @@ div.mwe-popups-container a.mwe-popups-extract {
     padding-bottom: 6px;
     padding-top: 4px;
     margin: 0;
-}
-
-div.mwe-popups-container footer {
-    background-color: #284a2a;
 }
 
 div.mwe-popups-container a.mwe-popups-extract::after {
