@@ -33,7 +33,8 @@ tr::before {
 }
 
 a,
-a.external.text {
+a.external.text,
+.mw-parser-output a.extiw {
 	color: yellow;
 }
 
@@ -51,6 +52,10 @@ div.mwe-popups-container footer {
 
 div.mwe-popups-container a.mwe-popups-extract::after {
 	display: none;
+}
+
+div.side-box.metadata.side-box-right.sister-box.sistersitebox.plainlinks {
+	background-color: #284a2a;
 }
 /*
 div.mwe-popups.mwe-popups-type-page.mwe-popups-fade-in-up.flipped-x.mwe-popups-image-pointer.mwe-popups-is-not-tall"
