@@ -15,7 +15,7 @@ _Folder_: wikipedia_styles
 ### Dark1
 - Dark theme. White font.
 - Pallete: Dark Gray, Balck, Green and Yellow.
-- **Still in development:** Pop-ups, tables and Side-bar-content not working.
+- **Still in development:** Main-menu, references and side-box-abovebelow not working.
 ### Dark101
 - "fork" of Dark1 to test some modifications
 ### Dark102

@@ -17,7 +17,8 @@ div.center,
 	background-color: #284a2a;
 }
 
-th {
+th,
+.sidebar-list-title {
 	background-color: #222 !important;
 }
 

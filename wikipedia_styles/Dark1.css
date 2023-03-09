@@ -6,22 +6,27 @@
 	background-color: #222;
 }
 
-div#vector-toc.vector-toc.vector-pinnable-element::after {
+div#vector-toc.vector-toc.vector-pinnable-element::after,
+div.mwe-popups-container a.mwe-popups-extract::after {
 	display: none;
 }
 
 tr,
 div.center,
-.catlinks {
+.catlinks,
+.cdx-menu,
+div.mwe-popups-container footer {
 	background-color: #284a2a;
 }
 
-th {
+th,
+.sidebar-list-title {
 	background-color: #222 !important;
 }
 
 tr td,
-div.thumbcaption {
+div.thumbcaption,
+tr::before {
 	background-color: #284a2a !important;
 }
 
@@ -32,4 +37,12 @@ div.thumbcaption {
 a,
 a.external.text {
 	color: yellow;
+}
+
+div.mwe-popups-container a.mwe-popups-extract {
+	background-color: #222;
+    padding: 8px;
+    padding-bottom: 6px;
+    padding-top: 4px;
+    margin: 0;
 }
