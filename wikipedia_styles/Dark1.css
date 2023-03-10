@@ -22,7 +22,8 @@ div.side-box.metadata.side-box-right.sister-box.sistersitebox.plainlinks,
 .mw-message-box-notice.vector-language-sidebar-alert.mw-message-box,
 .side-box-flex,
 div.noprint.metadata.sister-bar,
-ul.noprint.portalbox.portalborder.portalright {
+ul.noprint.portalbox.portalborder.portalright,
+div.rt-tooltip.rt-tooltip-above.rt-fade-in-down {
 	background-color: #284a2a;
 }
 
