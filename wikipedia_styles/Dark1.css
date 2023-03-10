@@ -23,7 +23,8 @@ div.side-box.metadata.side-box-right.sister-box.sistersitebox.plainlinks,
 .side-box-flex,
 div.noprint.metadata.sister-bar,
 ul.noprint.portalbox.portalborder.portalright,
-div.rt-tooltip.rt-tooltip-above.rt-fade-in-down {
+div.rt-tooltip.rt-tooltip-above.rt-fade-in-down,
+span.portalbox-link {
 	background-color: #284a2a;
 }
 
