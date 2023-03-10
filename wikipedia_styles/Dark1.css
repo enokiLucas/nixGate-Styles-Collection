@@ -1,58 +1,70 @@
-.mw-page-container {
-	background-color: #33373a;
-}
+/* ==UserStyle==
+@name 						Wikipedia Dark Forest
+@namespace				https://github.com/enokiLucas/nixGate-Styles-Collection
+@version					2023-03-10
+@description			Dark theme for wikipedia with a gray and green colorscheme.
+@author						nixGate
+@license					MIT license
+==/UserStyle== */
 
-.vector-toc.vector-pinnable-element,
-#vector-main-menu,
-.portal-bar.noprint.metadata.noviewer.portal-bar-bordered {
-	background-color: #222;
-}
 
-div#vector-toc.vector-toc.vector-pinnable-element::after,
-div.mwe-popups-container a.mwe-popups-extract::after {
-	display: none;
-}
+@-moz-document domain("wikipedia.org") {
+			.mw-page-container {
+				background-color: #33373a;
+			}
 
-tr,
-div.center,
-.catlinks,
-.cdx-menu,
-div.mwe-popups-container footer,
-div.side-box.metadata.side-box-right.sister-box.sistersitebox.plainlinks,
-.mw-message-box-notice.vector-language-sidebar-alert.mw-message-box,
-.side-box-flex,
-div.noprint.metadata.sister-bar,
-ul.noprint.portalbox.portalborder.portalright,
-div.rt-tooltip.rt-tooltip-above.rt-fade-in-down,
-span.portalbox-link {
-	background-color: #284a2a;
-}
+			.vector-toc.vector-pinnable-element,
+			#vector-main-menu,
+			.portal-bar.noprint.metadata.noviewer.portal-bar-bordered {
+				background-color: #222;
+			}
 
-th,
-.sidebar-list-title {
-	background-color: #222 !important;
-}
+			div#vector-toc.vector-toc.vector-pinnable-element::after,
+			div.mwe-popups-container a.mwe-popups-extract::after {
+				display: none;
+			}
 
-tr td,
-div.thumbcaption,
-tr::before {
-	background-color: #284a2a !important;
-}
+			tr,
+			div.center,
+			.catlinks,
+			.cdx-menu,
+			div.mwe-popups-container footer,
+			div.side-box.metadata.side-box-right.sister-box.sistersitebox.plainlinks,
+			.mw-message-box-notice.vector-language-sidebar-alert.mw-message-box,
+			.side-box-flex,
+			div.noprint.metadata.sister-bar,
+			ul.noprint.portalbox.portalborder.portalright,
+			div.rt-tooltip.rt-tooltip-above.rt-fade-in-down,
+			span.portalbox-link {
+				background-color: #284a2a;
+			}
 
-* {
-	color: white;
-}
+			th,
+			.sidebar-list-title {
+				background-color: #222 !important;
+			}
 
-a,
-a.external.text,
-.mw-parser-output a.extiw {
-	color: yellow;
-}
+			tr td,
+			div.thumbcaption,
+			tr::before {
+				background-color: #284a2a !important;
+			}
 
-div.mwe-popups-container a.mwe-popups-extract {
-	background-color: #222;
-    padding: 8px;
-    padding-bottom: 6px;
-    padding-top: 4px;
-    margin: 0;
+			* {
+				color: white;
+			}
+
+			a,
+			a.external.text,
+			.mw-parser-output a.extiw {
+				color: yellow;
+			}
+
+			div.mwe-popups-container a.mwe-popups-extract {
+				background-color: #222;
+					padding: 8px;
+					padding-bottom: 6px;
+					padding-top: 4px;
+					margin: 0;
+			}
 }
