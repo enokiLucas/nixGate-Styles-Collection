@@ -30,7 +30,9 @@ _Folder_: wikipedia_styles
 - Light theme: light yellow background and black letters.
 
 ## NHK news easy
-_Folder_: easy_styles
+_Folder_: nhk_news_styles
+### dark01
+- Change the default font to [M Plus 1, sans-serif](https://fonts.google.com/specimen/M+PLUS+1/tester?query=Coji+Morishita&subset=japanese&noto.script=Jpan) by [Coji Morishita](https://fonts.google.com/?query=Coji+Morishita&subset=japanese&noto.script=Jpan)
 
 ## NHK news easier
 _Folder_: easier_styles
