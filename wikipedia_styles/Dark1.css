@@ -9,7 +9,7 @@
 
 
 @-moz-document domain("wikipedia.org") {
-			vector-header-container,
+			.vector-header-container,
 			.vector-feature-zebra-design-disabled,
 			.mw-page-container {
 				background-color: #33373a !important;
