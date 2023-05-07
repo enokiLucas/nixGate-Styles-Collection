@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name 						Wikipedia Dark Forest
 @namespace				https://github.com/enokiLucas/nixGate-Styles-Collection
-@version					2023-03-10
+@version					2023-05-07
 @description			Dark theme for wikipedia with a gray and green colorscheme.
 @author						nixGate
 @license					MIT license
@@ -9,8 +9,10 @@
 
 
 @-moz-document domain("wikipedia.org") {
+			vector-header-container,
+			.vector-feature-zebra-design-disabled,
 			.mw-page-container {
-				background-color: #33373a;
+				background-color: #33373a !important;
 			}
 
 			.vector-toc.vector-pinnable-element,
