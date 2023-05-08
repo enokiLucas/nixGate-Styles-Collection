@@ -13,8 +13,9 @@ Thank you for the attention.
 ## Wikipedia.
 _Folder_: wikipedia_styles
 ### Dark1
+- Name: Dark Forest.
 - Dark theme. White font.
-- Pallete: Dark Gray, Balck, Green and Yellow.
+- Pallete: Dark Gray, Black, Green and Yellow.
 - **Still in development:** Main-menu, references and side-box-abovebelow not working.
 ### Dark101
 - "fork" of Dark1 to test some modifications
