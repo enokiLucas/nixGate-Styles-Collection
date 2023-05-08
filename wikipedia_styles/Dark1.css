@@ -1,11 +1,12 @@
 /* ==UserStyle==
 @name 						Wikipedia Dark Forest
 @namespace				https://github.com/enokiLucas/nixGate-Styles-Collection
-@version					2023-05-07
+@version			    20230507-2
 @description			Dark theme for wikipedia with a gray and green colorscheme.
 @author						nixGate
-@license					MIT license
+@license			    MIT license
 ==/UserStyle== */
+
 
 
 @-moz-document domain("wikipedia.org") {
