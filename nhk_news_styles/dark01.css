@@ -3,23 +3,36 @@
 body {
     font-family: 'M PLUS 1', sans-serif;
     font-weight: 500;
-		background-color: #33373a;
-		color: white;
-}
-
-.title {
+    background-color: #33373a;
 	color: white;
 }
 
-div.nr-common-footer-wrapper {
-	background-color: #222;
+em.title,
+time.time,
+p.article-main__date,
+h1,
+rt {
+    color: white !important;
 }
 
 div.dictionary-box {
-	background-color: #284a2a !important;
-	color: white;
+    background-color: #284a2a !important;
+    color: white;
 }
 
 dt.dictionary-contents__title {
-	color: yellow !important;
+    color: yellow !important;
+}
+
+div.nr-common-footer-wrapper,
+div.nr-common-footer {
+	background-color: #222 !important;
+}
+
+em.side-news-item__title {
+    color: #6d6d6d !important;
+}
+
+em.side-news-item__title rt {
+    color: #6d6d6d !important;
 }
