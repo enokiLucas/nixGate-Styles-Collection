@@ -10,3 +10,7 @@ body {
 .title {
 	color: white;
 }
+
+div.nr-common-footer-wrapper {
+	background-color: #222;
+}
