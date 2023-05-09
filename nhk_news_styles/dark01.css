@@ -14,3 +14,12 @@ body {
 div.nr-common-footer-wrapper {
 	background-color: #222;
 }
+
+div.dictionary-box {
+	background-color: #284a2a !important;
+	color: white;
+}
+
+dt.dictionary-contents__title {
+	color: yellow !important;
+}
