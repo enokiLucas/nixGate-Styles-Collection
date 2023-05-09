@@ -1,3 +1,13 @@
+/* ==UserStyle==
+@name 						NHK News Easy Dark Forest
+@namespace				https://github.com/enokiLucas/nixGate-Styles-Collection
+@version			    20230509-1
+@description			Dark theme for NHK News Easy with a gray and green colorscheme.
+@author						nixGate
+@license			    MIT license
+==/UserStyle== */
+
+
 @import url('https://fonts.googleapis.com/css2?family=M+PLUS+1&display=swap');
 
 body {
