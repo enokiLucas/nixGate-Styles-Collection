@@ -33,6 +33,7 @@ _Folder_: wikipedia_styles
 ## NHK news easy
 _Folder_: nhk_news_styles
 ### dark01
+- Published on [UserStyles.world](https://userstyles.world/) by the name of [NHK news easy Dark Forest](https://userstyles.world/style/9776/nhk-news-easy-dark-forest)
 - Change the default font to [M Plus 1, sans-serif](https://fonts.google.com/specimen/M+PLUS+1/tester?query=Coji+Morishita&subset=japanese&noto.script=Jpan) by [Coji Morishita](https://fonts.google.com/?query=Coji+Morishita&subset=japanese&noto.script=Jpan)
 - Dark theme, white font.
 - Same pallete as dark forest.
