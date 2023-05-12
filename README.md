@@ -1,18 +1,18 @@
 # nixGate Styles Collection
 Collection of CSS files for use in a variety of websites.
 
-Personal Project started as a learning experience, as well as to improve readability in some sites. Complete styles may be publish in 'Stylus' in the future.
+Personal Project started as a learning experience, as well as to improve readability in some sites. Complete styles may be publish in [UserStyles.world](https://userstyles.world/) in the future.
 
 Criticism and advise is welcomed.
 
 Thank you for the attention.
-
 
 # Index.
 
 ## Wikipedia.
 _Folder_: wikipedia_styles
 ### Dark1
+- Published on [UserStyles.world](https://userstyles.world/) by the name of [Wikipedia Dark Forest](https://userstyles.world/style/8894/wikipedia-dark-forest)
 - Name: Dark Forest.
 - Dark theme. White font.
 - Pallete: Dark Gray, Black, Green and Yellow.
