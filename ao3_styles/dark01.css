@@ -4,10 +4,6 @@ body {
 	font-weight: 250;
 }
 
-div.wrapper {
-    color: white !important;
-}
-
-dd {
+a {
     color: white !important;
 }
