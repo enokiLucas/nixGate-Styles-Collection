@@ -1,5 +1,13 @@
 body {
-	background-color: black;
+	background-color: #33373a;
 	color: white;
 	font-weight: 250;
+}
+
+div.wrapper {
+    color: white !important;
+}
+
+dd {
+    color: white !important;
 }
