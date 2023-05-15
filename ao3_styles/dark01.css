@@ -1,13 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+
 body {
 	background-color: #33373a;
 	color: white;
 	font-weight: 250;
+	font-family: 'Merriweather', serif;
 }
 
 div.wrapper {
-    color: white !important;
+  color: white !important;
 }
 
 a {
-    color: white !important;
+  color: white;
 }
