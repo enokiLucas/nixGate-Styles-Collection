@@ -46,3 +46,4 @@ _Folder_: easier_styles
 ## Archive of our own
 _Folder_: ao3_styles
 ### dark01
+- Imported 'Merriweather serif' font.
