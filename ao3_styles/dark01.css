@@ -15,3 +15,8 @@ a,
 a.tag {
   color: white;
 }
+
+div.bookmark.listbox.group,
+ol.index.group {
+    background-color: #33373a;
+}
