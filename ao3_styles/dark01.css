@@ -7,16 +7,26 @@ body {
 	font-family: 'Merriweather', serif;
 }
 
-div.wrapper {
+div.wrapper,
+h3.heading {
   color: white !important;
 }
 
 a,
-a.tag {
+a.tag,
+a.author {
   color: white;
 }
 
-div.bookmark.listbox.group,
 ol.index.group {
     background-color: #33373a;
+}
+
+ul.tags.commas.index.group {
+    background-color: #33373a;
+}
+
+div.bookmark.listbox.group,
+div.parent.listbox.group {
+    background-color: #284a2a;
 }
