@@ -47,3 +47,7 @@ _Folder_: easier_styles
 _Folder_: ao3_styles
 ### dark01
 - Imported 'Merriweather serif' font.
+### reversy_byAO3
+- Copy of the skin made by AO3.
+- To be used as a template for others.
+- "reversy_GPT4.adoc" is the output made by chatGPT4 explaining what each section of the css file does.
