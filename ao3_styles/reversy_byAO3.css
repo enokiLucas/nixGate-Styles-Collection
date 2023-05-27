@@ -36,10 +36,10 @@ div.dynamic,
 .dynamic form,
 #ui-datepicker-div,
 .ui-datepicker table {
-  background: #333;
-  color: #eee;
+  background: #33373a;
+  color: white;
   border-color: #222;
-  outline: #111;
+  outline: #284a2a;
   box-shadow: none;
 }
 
