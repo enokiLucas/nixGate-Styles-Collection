@@ -36,10 +36,10 @@ div.dynamic,
 .dynamic form,
 #ui-datepicker-div,
 .ui-datepicker table {
-  background: #33373a;
-  color: white;
+  background: #333;
+  color: #eee;
   border-color: #222;
-  outline: #284a2a;
+  outline: #111;
   box-shadow: none;
 }
 
@@ -64,7 +64,7 @@ th,
 .thread .even,
 .system .tweet_list li,
 .ui-datepicker tr:hover {
-  background: #284a2a;
+  background: #2a2a2a;
 }
 
 #header .dropdown .menu a:hover,
