@@ -96,15 +96,15 @@ th,
 .statistics .index li:nth-of-type(even),
 #tos_prompt,
 .announcement input[type="submit"] {
-  background: #333;
+  background: #97785C;
 }
-
+/*
 #header ul.primary,
 #outer #footer,
 .toggled form {
   background: url("/images/skins/textures/tiles/black-noise.jpg");
 }
-
+*/
 #header ul.primary,
 #footer,
 #dashboard ul,
