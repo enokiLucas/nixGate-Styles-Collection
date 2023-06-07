@@ -51,3 +51,18 @@ _Folder_: ao3_styles
 - Copy of the skin made by AO3.
 - To be used as a template for others.
 - "reversy_GPT4.adoc" is the output made by chatGPT4 explaining what each section of the css file does.
+
+/*
+Background: "Saddle Brown" (#C7A77B)
+Header: "Burlywood" (#9B7B61)
+Navigation Menu: "Tan" (#86674E)
+Body Text: "Sandy Brown" (#705640)
+Subheadings: "Peru" (#917858)
+Links: "Dark Goldenrod" (#97785C)
+Buttons: "Dark Khaki" (#AB8B6C)
+Borders: "Medium Brown" (#80634A)
+Accent Color 1: "Tan" (#BA9777)
+Accent Color 2: "Pale Goldenrod" (#D1B598)
+Hover Effects: "Brown" (#725A43)
+Footer: "Dark Khaki" (#927659)
+*/
