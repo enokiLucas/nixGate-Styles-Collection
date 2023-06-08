@@ -153,9 +153,9 @@ dl.index dd,
 .unwrangled,
 .unreviewed,
 .ui-sortable li:hover {
-  background: #000;
-  border-color: #555;
-  box-shadow: -1px -1px 3px #000;
+  background: #AB8B6C;
+  border-color: #80634A;
+  box-shadow: -1px -1px 3px #AB8B6C;
 }
 
 input,
