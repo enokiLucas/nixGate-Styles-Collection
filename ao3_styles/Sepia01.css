@@ -185,8 +185,8 @@ a.tag:hover,
 
 .splash .favorite li:nth-of-type(odd) a:hover,
 .splash .favorite li:nth-of-type(odd) a:focus {
-  background: #5998D6;
-  color: #111;
+  background: #927659;
+  color: #705640;
 }
 
 #header #greeting img,
