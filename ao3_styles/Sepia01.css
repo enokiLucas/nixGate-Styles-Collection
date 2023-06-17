@@ -291,9 +291,9 @@ button,
 .actions input:focus,
 #dashboard a:focus,
 .actions .disabled select {
-  color: #999;
-  border-color: #000;
-  box-shadow: inset 2px 2px 2px #000;
+  color: #AB8B6C;
+  border-color: #80634A;
+  box-shadow: inset 2px 2px 2px #80634A;
 }
 
 .actions a:active,
