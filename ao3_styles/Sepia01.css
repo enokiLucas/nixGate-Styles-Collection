@@ -300,10 +300,10 @@ button,
 .current,
 a.current,
 .current a:visited {
-  color: #fff;
-  background: #555;
-  border-color: #fff;
-  box-shadow: inset 1px 1px 3px #333;
+  color: #917858;
+  background: #705640;
+  border-color: #917858;
+  box-shadow: inset 1px 1px 3px #97785C;
 }
 
 .delete a,
