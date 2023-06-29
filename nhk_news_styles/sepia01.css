@@ -1,0 +1,52 @@
+/* ==UserStyle==
+@name						NHK News Easy Sepia
+@namespace			https://github.com/enokiLucas/nixGate-Styles-Collection
+@version				0.1.2
+@description		Brown theme for NHK News Easy with a gray and green colorscheme.
+@author					nixGate
+@license				MIT license
+==/UserStyle== */
+
+
+
+@-moz-document domain("www3.nhk.or.jp") {
+	@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1&display=swap');
+
+	body {
+			font-family: 'M PLUS 1', sans-serif;
+			font-weight: 500;
+			background-color: #33373a;
+			color: white;
+	}
+
+	em.title,
+	time.time,
+	p.article-main__date,
+	h1,
+	rt {
+			color: white !important;
+	}
+
+	div.dictionary-box {
+			background-color: #284a2a !important;
+			color: white;
+	}
+
+	dt.dictionary-contents__title {
+			color: yellow !important;
+	}
+
+	div.nr-common-footer-wrapper,
+	div.nr-common-footer {
+		background-color: #222 !important;
+	}
+
+	em.side-news-item__title {
+			color: #6d6d6d !important;
+	}
+
+	em.side-news-item__title rt {
+			color: #6d6d6d !important;
+	}
+
+}
