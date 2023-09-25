@@ -49,7 +49,8 @@
 
 	tr td,
 	div.thumbcaption,
-	tr::before {
+	tr::before,
+	figcaption {
 		background-color: #284a2a !important;
 	}
 
